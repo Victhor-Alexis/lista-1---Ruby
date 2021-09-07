@@ -5,7 +5,7 @@ while (count <= 100)
         print "#{0}, "
     elsif (count % 5 == 0 && count % 3 == 0)
         print "fizzbuzz, "
-     elsif (count % 5 == 0)
+    elsif (count % 5 == 0)
         print "buzz, "
     elsif (count % 3 == 0)
         print "fizz, "

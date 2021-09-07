@@ -4,7 +4,7 @@ cardapio = {
     :sobremesa => ["Amendoim", "Batata doce", "Banana"]
 }
 
-#método para acessar diretamente elemento do array dentro do hash
+#tem um método para acessar elemento do array ligado a uma chave dentro do hash?
 
 aux = []
 resultado = []
